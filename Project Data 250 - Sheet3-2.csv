@@ -1,0 +1,41 @@
+ID ,emotion,gambled ,level_emotions_played,gender
+101,neutral ,yes,1,boy
+102,neutral ,yes,7,girl
+103,neutral ,no,0,girl
+104,neutral ,yes,2,girl
+105,neutral ,yes,4,boy
+106,neutral ,no,3,girl
+107,neutral ,yes,6,girl
+108,neutral ,yes,4,girl
+109,neutral ,no,7,girl
+110,neutral ,yes,3,girl
+111,neutral ,no,0,boy
+112,happy ,yes,1,girl
+113,happy ,no,2,girl
+114,happy ,yes,1,boy
+115,happy ,yes,8,boy
+116,happy,yes,6,girl
+117,happy,yes,1,girl
+118,happy,yes,4,girl
+119,happy,no,7,girl
+120,happy,no,5,girl
+121,happy,no,6,girl
+122,happy,no,3,girl
+123,happy,no,0,girl
+124,sad,no,1,girl
+125,sad,yes,1,girl
+126,sad,yes,6,girl
+127,sad,yes,3,boy
+128,sad,yes,3,girl
+129,sad,no,1,girl
+130,sad,no,2,girl
+131,sad,no,2,boy
+132,sad,no,6,girl
+133,sad,yes,7,boy
+134,sad,no,5,girl
+135,sad,yes,6,girl
+136,sad,yes,1,girl
+137,sad,yes,3,boy
+138,sad,yes,2,girl
+139,sad,no,7,girl
+140,sad,yes,7,boy
